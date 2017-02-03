@@ -13,10 +13,10 @@ Let’s start by defining the exact terms discussed here and highlighting the sc
 **Working plan:** We will use separate Github issues for each step to organize the work cycle:
 
 1.	Prepare a list of all contributors
-2.	Share ideas and brainstorm about all interesting questions related to the topic. I can think of at least two categories of ideas. 
-  1. Topics that we should cover by comprehensive literature search
-  2. Experiences, frustrations, doubts and suggestions
-3.	Select editorial board from all contributors (I suggest 3 members; one leader and 2 co-leaders). 
+2.	Share ideas and brainstorm about all interesting questions related to the topic. I can think of two main categories of ideas. 
+  1. Literature: Topics that we should cover by comprehensive literature search
+  2. Discussion: Experiences, frustrations, doubts and suggestions
+3.	Select editorial board from all contributors (I suggest 3 members; one leader and 2 co-leaders; one for reference based transcriptome assembly and another one for denovo assembly). 
 4.	The editorial board will lead a discussion about the outline of the 1st draft and assign tasks to the contributors.
 5.	Each contributor will lead an issue for his task where he/she shares his/her initial draft paragraph and get feed back from all of us. The issue will be announced closed by final draft of this paragraph.
 6.	The editorial board should collect all draft paragraphs into a first draft version, and start an open discussion about suggested changes. 
@@ -28,6 +28,16 @@ The editorial board can change all these suggestions after group discussion. I a
 
 **Who can share?** If you read thought until this point, then definitely you can share in this work. We will have a lot of discussions, literature search, scripting, and writing enough for everyone. The editorial board should try to get all contributors involved then judge their commitment and contribution        
 
+**Time Plan:** 8 weeks plan
+
+* 1 week for discussions and brainstorming.
+* 1 week for the editorial board to lead a discussion about the outline of the 1st draft and assign tasks to the contributors
+* 1 week for the contributors to finish their parts
+* 1 week for the editorial board to prepare 1st draft
+* 1 week for edits and updates before publishing in the bioRxiv archive
+* 3 weeks for community discussion and editorial board preparation peer reviewed version
+
 **What should I do now?** Please go ahead and open the issues tab to find the issue called “contributors”. You need to add your name and email. Please feel free to introduce yourself and may be add links to you personal page if you want. Next you can open the issue called “Brainstorm” to add your ideas and discuss the other ideas. 
+
 
 
