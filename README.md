@@ -10,7 +10,7 @@ Let’s start by defining the exact terms discussed here and highlighting the sc
 
 **Scope of the article:** Although this article should highlight significant research articles and software packages in the filed, it is NOT just a literature review. We are gathering here to share experiences, frustrations, doubts and suggestions in this daily growing field.   
 
-**Working plan:** We will use separate Github issues for each step to organize the work cycle:
+**Working plan:** We will have a separate Github issue for each step to organize the work cycle:
 
 1.	Prepare a list of all contributors
 2.	Share ideas and brainstorm about all interesting questions related to the topic. I can think of two main categories of ideas. 
@@ -37,7 +37,10 @@ The editorial board can change all these suggestions after group discussion. I a
 * 1 week for edits and updates before publishing in the bioRxiv archive
 * 3 weeks for community discussion and editorial board preparation peer reviewed version
 
-**What should I do now?** Please go ahead and open the issues tab to find the issue called “contributors”. You need to add your name and email. Please feel free to introduce yourself and may be add links to you personal page if you want. Next you can open the issue called “Brainstorm” to add your ideas and discuss the other ideas. 
+**Disscusion plateform:** 
+We have started [our own instance of Discourse](https://reviews.oxli.org/) for disscusions. Thanks for [Luiz Irber](https://github.com/luizirber) who volunteered to install the plateform in the amazon cloud and thanks for [C. Titus Brown](https://github.com/ctb) who generously accepted to fund the website. Discourse is an open source API that incorportes many feature making community disscusions more useful. You can follow the [software link](http://www.discourse.org/) to know more about the features of Discourse. 
+
+**What should I do now?** Please go ahead and open the [“contributors”](https://github.com/dib-lab/TransAnn-Review/issues/1) issue to add your name and email. Next you can open the issue [“Brainstorm”](https://github.com/dib-lab/TransAnn-Review/issues/2) to find out how to join our disscusion plateform. 
 
 
 
