@@ -42,5 +42,5 @@ We have started [our own instance of Discourse](https://reviews.oxli.org/) for d
 
 **What should I do now?** Please go ahead and open the [“contributors”](https://github.com/dib-lab/TransAnn-Review/issues/1) issue to add your name and email. Next you can open the issue [“Brainstorm”](https://github.com/dib-lab/TransAnn-Review/issues/2) to find out how to join our disscusion plateform. 
 
-
+If you have any questions or suggestions about the project to be more productive, please drop them in the [Suggestion box](https://github.com/dib-lab/TransAnn-Review/issues/3).
 
