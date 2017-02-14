@@ -28,9 +28,9 @@ The editorial board can change all these suggestions after group discussion. I a
 
 **Who can share?** If you read thought until this point, then definitely you can share in this work. We will have a lot of discussions, literature search, scripting, and writing enough for everyone. The editorial board should try to get all contributors involved then judge their commitment and contribution        
 
-**Time Plan:** 8 weeks plan
+**Time Plan:** 10 weeks plan
 
-* 1 week for discussions and brainstorming.
+* 3 weeks for crowdsourcing, discussions and brainstorming.
 * 1 week for the editorial board to lead a discussion about the outline of the 1st draft and assign tasks to the contributors
 * 1 week for the contributors to finish their parts
 * 1 week for the editorial board to prepare 1st draft
@@ -42,5 +42,9 @@ We have started [our own instance of Discourse](https://reviews.oxli.org/) for d
 
 **What should I do now?** Please go ahead and open the [“contributors”](https://github.com/dib-lab/TransAnn-Review/issues/1) issue to add your name and email. Next you can open the issue [“Brainstorm”](https://github.com/dib-lab/TransAnn-Review/issues/2) to find out how to join our disscusion plateform. 
 
-If you have any questions or suggestions about the project to be more productive, please drop them in the [Suggestion box](https://github.com/dib-lab/TransAnn-Review/issues/3).
+If you have any questions about the project or suggestions to be more productive, please drop them in the [Suggestion box](https://github.com/dib-lab/TransAnn-Review/issues/3).
+
+Updates:
+- Prepartion stage: Start the gitHub repo and testing of disscusion plateform (01/29/2017 - 02/12/2017)
+- We started crowdsourcing, disscusions and brianstorming on 02/13/2017 (should be done 03/05/2017).
 
